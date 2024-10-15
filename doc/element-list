@@ -1,0 +1,5 @@
+com.employee.Employee
+com.employee.Employee.controller
+com.employee.Employee.entity
+com.employee.Employee.repository
+com.employee.Employee.service
